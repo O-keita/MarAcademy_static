@@ -86,7 +86,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 5rem 2rem;
+    padding: 6rem 2rem;
     min-height: 110vh;
     position: relative;
     overflow: hidden;
